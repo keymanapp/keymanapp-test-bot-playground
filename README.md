@@ -1,3 +1,3 @@
 # keymanapp-test-bot-playground
 
-Chris woz here.
+This is a safe place to experiement with the @keymanapp-test-bot bot.
